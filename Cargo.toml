@@ -10,6 +10,8 @@ serde_json = "1.0.125"
 regex = "1.10.6"
 tokio = { version = "1.39.3", features = ["full"] }
 ffmpeg-cli = "0.1.0"
+futures = "0.3.30"
+zip = "0.6.5"
 
 [build-dependencies]
 winres = "0.1.12"
