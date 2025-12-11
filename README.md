@@ -1,12 +1,12 @@
 # StickerFetch - a LINE sticker downloader
 
-Sticker Fetch is a command-line utility for downloading stickers from the LINE messaging app, written in Rust. This program allows users to download both static PNG stickers and animated GIFs from a specified sticker pack. It organizes downloaded stickers into a directory named after the sticker pack.
+Sticker Fetch is a command-line utility for downloading stickers and emojis from the LINE messaging app, written in Rust. This program allows users to download both static PNG images and animated GIFs from a specified sticker/emoji pack. It organizes downloaded stickers and emojis into a directory named after the sticker/emoji pack.
 
 ## Features
 
-- Download static PNG stickers.
-- Download animated stickers as GIFs.
-- Save all stickers in a directory named after the sticker pack.
+- Download static PNG stickers and emojis.
+- Download animated stickers and emojis as GIFs.
+- Save all stickers/emojis in a directory named after the sticker/emoji pack.
 
 ## Requirements
 
